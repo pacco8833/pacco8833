@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in: Becoming a Fullstack Java Developer!
 
-- 🌱 I’m currently learning: DataS tructues and Design Patterns!
+- 🌱 I’m currently learning: Data Structues and Design Patterns!
 
 - 💞️ I’m looking to learn: games / automotive tuning / animation  / machine learning 
 
